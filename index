@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Welcome</title>
+    <style>
+        body {
+            margin: 0;
+            height: 100vh;
+            background-color: blue;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-family: Arial, sans-serif;
+        }
+
+        h1 {
+            color: white;
+            font-size: 70px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Welcome!</h1>
+</body>
+</html>
